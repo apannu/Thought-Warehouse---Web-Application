@@ -9,3 +9,13 @@ Technology Used
 Front-end :- HTML5, CSS3, Bootstrap, JSP, JavaScript, jQuery
 Back-end :- Java/J2EE, Spring, Hibernate, JDBC, Maven, JSON
 Database :- MySQL
+
+Instructions to run the application:
+
+1. Download all the files from GitHub.
+2. Import the project in any IDE that supports Java (preferably Eclipse).
+3. Download the maven and tomcat and their respective plugins in eclipse.
+4. Build the project as maven project.
+5. After successfull build, run the project on Tomcat.
+
+
